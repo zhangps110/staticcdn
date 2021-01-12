@@ -10,13 +10,11 @@
 	{ "name":"线路九", "type":"1", "url":"https://jiexi.q-q.wang/?url="},
 	{ "name":"线路十", "type":"1", "url":"https://jx.youyitv.com/?url="},
 	{ "name":"线路十一", "type":"1", "url":"https://api.bingdou.net/?url="},
-	//--------------------------------------------------------------------------------------
 	{ "name":"B站解析一", "type":"2", "url":"https://api.tv920.com/vip/?url="},
 	{ "name":"B站解析二", "type":"2", "url":"https://jx.116kan.com/?url="},
 	{ "name":"B站解析三", "type":"2", "url":"https://jiexi.380k.com/?url="},
 	{ "name":"B站解析四", "type":"2", "url":"https://api.bingdou.net/?url="},
 	{ "name":"B站解析五", "type":"2", "url":"https://jx.yparse.com/index.php?url="},
-	//--------------------------------------------------------------------------------------
 	{ "nme":"B站解析弹窗一", "type":"0", "url":"http://jx.rdhk.net/?v="},
 	{ "nme":"B站解析弹窗二", "type":"0", "url":"https://jsap.attakids.com/?url="},
 	{ "nme":"1907", "type":"0", "url":"https://z1.m1907.cn/?jx="},
