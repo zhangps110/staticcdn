@@ -12,12 +12,6 @@
         "url":"https://jx.618g.com/?url="
     },
     {
-        "name":"BJT",
-        "category":"1",
-        "type":"1",
-        "url":"https://ckmov.bjtjr.net/ckmov/?url="
-    },
-    {
         "name":"BL",
         "category":"1",
         "type":"1",
@@ -193,15 +187,21 @@
     },
     {
         "name":"m1907",
-        "category":"1",
-        "type":"1",
+        "category":"2",
+        "type":"2",
         "url":"https://z1.m1907.cn/?jx="
     },
     {
         "name":".618g",
-        "category":"1",
-        "type":"1",
+        "category":"2",
+        "type":"2",
         "url":"https://jx.618g.com/?url="
+    },
+    {
+        "name":"B站解析1",
+        "category":"2",
+        "type":"2",
+        "url":"https://vip.parwix.com:4433/player/?url="
     },
     {
         "name":"52",
